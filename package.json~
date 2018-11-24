@@ -1,0 +1,71 @@
+{"Dependencies":[
+	{"Name": "twitter",
+	 "version": "1.17.1"
+	},
+	{"Name": "reportlab",
+	 "version": "3.3.0"
+	},
+	{"Name": "beautifulsoup4",
+	 "version": "4.4.1"
+	},
+	{"Name": "boto",
+	 "version": "2.48.0"
+	},
+	{"Name": "bz2file",
+	 "version": "0.98"
+	},
+	{"Name": "certifi",
+	 "version": "2017.7.27.1"
+	},
+	{"Name": "chardet",
+	 "version": "3.0.4"
+	},
+	{"Name": "gensim",
+	 "version": "2.3.0"
+	},
+	{"Name": "html5lib",
+	 "version": "0.999"
+	},
+	{"Name": "idna",
+	 "version": "2.5"
+	},
+	{"Name": "nltk",
+	 "version": "3.2.4"
+	},	
+	{"Name": "numpy",
+	 "version": "1.13.1"
+	},
+	{"Name": "pexpect",
+	 "version": "4.0.1"
+	},
+	{"Name": "pip",
+	 "version": "9.0.1"
+	},
+	{"Name": "ptyprocess",
+	 "version": "0.5"
+	},
+	{"Name": "pyxdg",
+	 "version": "0.25"
+	},
+	{"Name": "requests",
+	 "version": "2.18.13"
+	},
+	{"Name": "scipy",
+	 "version": "0.19.1"
+	},
+	{"Name": "setuptools",
+	 "version": "20.7.0"
+	},
+	{"Name": "six",
+	 "version": "1.10.0"
+	},
+	{"Name": "smart-open",
+	 "version": "1.5.3"
+	},
+	{"Name": "textblob",
+	 "version": "0.12.0"
+	},
+	{"Name": "urllib3",
+	 "version": "1.22"
+	}
+]}
